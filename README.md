@@ -1,6 +1,6 @@
 # excel_reports
 
-These are projects I created for automatic reporting at the office.
+These are projects I created for automatic reporting at my current work (I work as an actuary in an insurance company).
 
 Alfa_costs.ipynb contains a simple SQL query, which is stored into a pandas dataFrame. This is modified with some corrections (original dataFrame is kept unchanged so that it can be compared with the modified one). Finally, the modified version of the dataFrame is exported into an Excel template file and saved with a custom name, dependent on the month of the report.
 
